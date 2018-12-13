@@ -8,3 +8,8 @@ Lectura temperatura  y  humedad.
 # Este e s el código QR de mi  aplicación
 
 ![](imatges/qr.png)
+
+# Mira que chula queda
+
+![](imatges/pantallazo.png)
+

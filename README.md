@@ -12,4 +12,6 @@ Lectura temperatura  y  humedad.
 # Mira que chula queda
 
 ![](imatges/pantallazo.png)
+* Ademas esta es la programación de la placa 
+
 
